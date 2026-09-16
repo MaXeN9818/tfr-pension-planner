@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 data_private/
-__pycache__/
-*.py[cod]
-.streamlit/
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+.streamlit/
 
 # C extensions
 *.so
@@ -222,4 +218,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> origin/main
