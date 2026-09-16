@@ -1,0 +1,4 @@
+data_private/
+__pycache__/
+*.py[cod]
+.streamlit/
